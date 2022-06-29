@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlifSakib
 - 👀 I’m interested in coding with python
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data analysis
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on JavaScript, React , Node
 - 📫 How to reach me alifsakib@gmail.com
 
 <!---
