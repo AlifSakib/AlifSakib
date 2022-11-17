@@ -4,4 +4,6 @@
 
 ![promise](https://user-images.githubusercontent.com/61325788/195209100-ea324707-53b6-4c81-a22e-117dab1c959f.png)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifsakib)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifsakib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
