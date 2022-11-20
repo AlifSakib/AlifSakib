@@ -1,14 +1,15 @@
 ![promise](https://user-images.githubusercontent.com/61325788/195209100-ea324707-53b6-4c81-a22e-117dab1c959f.png)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alifsakib&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
 
-<h1 align="center"><b>Hi , I'm Alif Sakib </b><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="35"></h1>
+<h1 align="center"><b><i>Hi , I'm Md. Sakib Hossain Alif</i></b> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="35"></h1>
 
 
 <br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png" width = 250px></picture>
+<picture> <img align="right" src="https://images.unsplash.com/photo-1622099330140-69125ac0d6a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" width = 350px height = 250px></picture>
 
 <br>
 
