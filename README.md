@@ -10,7 +10,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://images.unsplash.com/photo-1622099330140-69125ac0d6a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" width = 350px height = 250px></picture>
+<a href="https://app.daily.dev/AlifSakib"><img src="https://api.daily.dev/devcards/bc493cb95fce4ea297d909aaec8919fb.png?r=9c8" width="200" alt="Alif Sakib's Dev Card"/></a>
 
 <br>
 
