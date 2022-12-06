@@ -14,8 +14,8 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
+- A passionate Self-taught Front-end developer.
+- Currently learning Web Development by Self.
 - Personal website [link]()
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/1DqZP4MBcR_-vejnpgsw1ldws5tk-66R0QbDLT9V04BU/edit?usp=share_link)
 
