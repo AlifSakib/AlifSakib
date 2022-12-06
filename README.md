@@ -8,9 +8,8 @@
 
 #### 🔭 I’m a design minded front-end react developer.
 #### 🌱 I’m exploring - Typescript.
-#### 👯 I’m looking - To collaborate on open source projects. 
-#### 🤔 I’m trying - To help people learn web development. 
-#### ⚡ Fun fact - I love collect car toys . 
+#### 👯 I’m looking - To collaborate on open source projects.  
+#### ⚡ Fun fact - I love collecting car toys . 
 
 
 <br />
