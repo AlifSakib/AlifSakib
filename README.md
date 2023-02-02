@@ -8,7 +8,7 @@
 </div>
 
 #### 🔭 I’m a design minded front-end react developer . 
-#### 🌱 I’m exploring - Typescript.
+#### 🌱 I’m exploring - Redux.
 #### 👯 I’m looking - To collaborate on open source projects.  
 #### ⚡ Fun fact - I love collecting car toys. . .
 
