@@ -10,7 +10,7 @@
 #### 🔭 ReactJS developer. 
 #### 🌱 I’m exploring - Redux.
 #### 👯 I’m looking - To collaborate on open source projects.  
-#### ⚡ Fun fact - I love collecting car toys. . .
+#### ⚡ Fun fact - I love collecting car toys. ..
 
 
 <br />
