@@ -4,7 +4,7 @@
 
 
 <div align="left">
-<a href="https://app.daily.dev/AlifSakib"><img align="right" src="https://api.daily.dev/devcards/bc493cb95fce4ea297d909aaec8919fb.png?r=vay" width="200" alt="Alif Sakib's Dev Card"/></a>
+<a href="https://app.daily.dev/AlifSakib"><img align="right" src="https://api.daily.dev/devcards/bc493cb95fce4ea297d909aaec8919fb.png?r=vay" width="200" alt="Alif Sakib's Dev Card "/></a>
 </div>
 
 #### 🔭 ReactJS developer. 
