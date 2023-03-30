@@ -8,7 +8,7 @@
 </div>
 
 #### 🔭 ReactJS developer. 
-#### 🌱 I’m exploring - Redux.
+#### 🌱 I’m exploring - React Redux.
 #### 👯 I’m looking - To collaborate on open source projects.  
 #### ⚡ I loe to make friends .
 
