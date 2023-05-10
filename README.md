@@ -16,7 +16,21 @@
 <br />
 
 ## :computer: Technologies that I know
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,tailwind,nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind)](https://skillicons.dev)
+<br>
+<p align="center">
+</p>
+<br/>
+
+## :computer: Familiar With
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,redux)](https://skillicons.dev)
+<br>
+<p align="center">
+</p>
+<br/>
+
+## :computer: Tools
+[![My Skills](https://skillicons.dev/icons?i=linux,git,vite)](https://skillicons.dev)
 <br>
 <p align="center">
 </p>
