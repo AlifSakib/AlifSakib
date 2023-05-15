@@ -10,7 +10,7 @@
 #### 🔭 ReactJS developer . 
 #### 🌱 I’m exploring - Mongoose.
 #### 👯 I’m looking - To collaborate on open source projects.  
-#### ⚡ I remember my past every day.
+#### ⚡ I remember my past every day .
 
 
 <br />
