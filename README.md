@@ -16,7 +16,7 @@
 <br />
 
 ## :computer: Technologies that I know
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,html,css,tailwind)](https://skillicons.dev)
 <br>
 <p align="center">
 </p>
