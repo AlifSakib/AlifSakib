@@ -8,9 +8,9 @@
 </div>
 
 #### 🔭 ReactJS developer . 
-#### 🌱 I’m exploring - Mongoose & TypeScript.
+#### 🌱 I’m exploring - SQL & Prisma.
 #### 👯 I’m looking - To collaborate on open source projects.  
-#### ⚡ I remember my past every day.
+#### ⚡ I remember my past daily.
 
 
 <br />
