@@ -23,7 +23,7 @@
 <br/>
 
 ## :computer: Familiar With
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,redux)](https://skillicons.dev)
 <br>
 <p align="center">
 </p>
