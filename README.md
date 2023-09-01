@@ -8,7 +8,7 @@
 </div>
 
 #### 🔭 ReactJS developer. 
-#### 🌱 I’m exploring - SQL & Prisma.
+#### 🌱 I’m exploring - SQL.
 #### 👯 I’m looking - To collaborate on open source projects.  
 #### ⚡ I remember my past daily.
 
