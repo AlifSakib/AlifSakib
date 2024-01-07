@@ -23,14 +23,14 @@
 <br/>
 
 ## :computer: Familiar With
-[![My Skills](https://skillicons.dev/icons?i=prisma,postgres,py,nodejs,express,mongodb,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prisma,postgres,graphql,py,nodejs,express,mongodb,redux,materialui)](https://skillicons.dev)
 <br>
 <p align="center">
 </p>
 <br/>
 
 ## :computer: Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,git,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,vite,docker,postman)](https://skillicons.dev)
 <br>
 <p align="center">
 </p>
