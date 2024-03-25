@@ -1,8 +1,6 @@
 <!-- ![promise](https://user-images.githubusercontent.com/61325788/195209100-ea324707-53b6-4c81-a22e-117dab1c959f.png) -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alifsakib&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
-
-
 <div align="left">
 <!-- <a href="https://app.daily.dev/AlifSakib"><img align="right" src="https://api.daily.dev/devcards/bc493cb95fce4ea297d909aaec8919fb.png?r=vay" width="200" alt="Alif Sakib's Dev Card"/></a> -->
   <a href="https://app.daily.dev/lunerlynx"><img src="https://api.daily.dev/devcards/v2/3WFzoQG7zcfQmMCSBs9KQ.png?type=wide&r=r50" width="100%"  alt="Alif Sakib's Dev Card"/></a>
