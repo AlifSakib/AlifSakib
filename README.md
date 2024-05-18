@@ -7,7 +7,7 @@
 </div>
 
 #### 🔭 ReactJS developer. 
-#### 🌱 I’m exploring - C.
+#### 🌱 I’m exploring - Socket.io.
 #### 👯 I’m looking - To collaborate on open source projects.  
 #### ⚡ I remember my past daily.
 
