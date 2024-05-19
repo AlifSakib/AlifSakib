@@ -14,15 +14,22 @@
 
 <br />
 
+## :computer: Programming Language
+[![My Skills](https://skillicons.dev/icons?i=js,ts,c,cpp,py)](https://skillicons.dev)
+<br>
+<p align="center">
+</p>
+<br/>
+
 ## :computer: Technologies that I know
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,html,css,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind)](https://skillicons.dev)
 <br>
 <p align="center">
 </p>
 <br/>
 
 ## :computer: Familiar With
-[![My Skills](https://skillicons.dev/icons?i=prisma,postgres,graphql,py,nodejs,express,mongodb,redux,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prisma,postgres,graphql,nodejs,express,mongodb,redux,materialui)](https://skillicons.dev)
 <br>
 <p align="center">
 </p>
